@@ -14,3 +14,4 @@ _The MMF (Modulated Media File) is the final product of **pickrpt**: it's a medi
 _The passphrase is a string choosen by the user, needed to decrypt a MMF_
 #### Key
 _The key is the SHA512 digest of a passphrase choosen by the user, it can be represented as a series of variables and instructions that define the whole process_
+![README](https://github.com/thedanielenavarra/pickrpt/assets/55278404/e87e5bb6-4571-4527-87d4-b60155611e40)
