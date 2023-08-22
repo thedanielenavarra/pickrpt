@@ -16,4 +16,4 @@ _The passphrase is a string choosen by the user, needed to decrypt a MMF_
 _The key is the SHA512 digest of a passphrase choosen by the user, it can be represented as a series of variables and instructions that define the whole process_
 
 # Process
-![README](README.md)
+![README](README.svg)
